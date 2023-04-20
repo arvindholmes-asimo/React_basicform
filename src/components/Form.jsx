@@ -43,7 +43,7 @@ function Form() {
                     </form>
                 </div>
 
-                <div className='form-container w-100 col-12 col-sm-6'>
+                <div className='form-container col-12 col-sm-6'>
                     <Card email={email} name={name} />
                 </div>
 
